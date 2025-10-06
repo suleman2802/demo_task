@@ -61,14 +61,14 @@ lib/
 🚀 How to Run
 Clone this repository
 
- git clone https://github.com/<your-username>/flutter_task_board.git
-cd flutter_task_board
+ git clone https://github.com/suleman2802/demo_task.git
+cd demo_task
 Install dependencies
  flutter pub get
 Run code generation (for Freezed)
  flutter pub run build_runner build --delete-conflicting-outputs
 Run the app
-             Flutter Run
+ flutter Run
 
 🧠 How It Works
 On startup, the app initializes the TasksCubit with empty lists.
