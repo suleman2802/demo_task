@@ -53,7 +53,7 @@ lib/
 | Package | Usage |
 |----------|--------|
 | flutter_bloc | State management using Cubit |
-| freezed** | Immutable models & state unions |
+| freezed | Immutable models & state unions |
 | build_runner | Code generation for Freezed |
 | fluttertoast | Simple in-app toast notifications |
 
